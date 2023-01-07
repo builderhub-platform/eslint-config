@@ -14,11 +14,11 @@ npm install -D @builderhub/eslint-config
 
 ## Usage
 
-add `.eslingtc.json` and add more your rules in `rules` field.
+add `.eslintrc` and add more your rules in `rules` field.
 
 ```json
 {
-  "extends": ["@eunchurn/eslint-config"],
+  "extends": ["@builderhub/eslint-config"],
   "rules": {}
 }
 ```
