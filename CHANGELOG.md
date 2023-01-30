@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/builderhub-platform/eslint-config/compare/v0.0.5...v0.0.6) (2023-01-30)
+
+
+### Bug Fixes
+
+* **peerDeps:** version ([3119f2e](https://github.com/builderhub-platform/eslint-config/commit/3119f2e2eaf27b36dbca326c25a8ba846a139744))
+
 ### [0.0.5](https://github.com/builderhub-platform/eslint-config/compare/v0.0.4...v0.0.5) (2023-01-07)
 
 ### [0.0.4](https://github.com/builderhub-platform/eslint-config/compare/v0.0.3...v0.0.4) (2023-01-07)
