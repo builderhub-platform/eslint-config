@@ -1,6 +1,6 @@
 {
   "name": "@builderhub/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Builderhub Platform Dev team ESLint configuration",
   "main": "dist/index.js",
   "files": [
